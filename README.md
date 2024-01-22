@@ -6,6 +6,10 @@ Raspberry Pi Pico - I2C Temperature Sensor
 
 This project uses a Raspberry Pi Pico to read data from an TMP3 I2C temperature sensor. The TMP3 I2C controller is implemented using the RPI Pico SDK libraries. The I2C controller can scan for slave devices, configure the temperature reading resolution, change / check device IDs, set temperature limits to trigger an alarm, and read temperature in Celsius and Fahrenheit.
 
+## Demo Video
+
+[Demo on Youtube](https://youtu.be/hdPshEco6GE)
+
 ## Dependencies
 
 ### Hardware
